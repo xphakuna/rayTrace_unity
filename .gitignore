@@ -1,11 +1,10 @@
 Library/
 obj/
 Temp/
-*.*
 Logs/
 Packages/
 ProjectSettings/ProjectVersion.txt
-
+UserSettings/
 
 
 
@@ -19,6 +18,9 @@ ProjectSettings/ProjectVersion.txt
 *.log
 ~*
 .*
+*.sln
+*.vsconfig
+*.csproj
 
 debug
 __debug*
